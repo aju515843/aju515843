@@ -1,0 +1,6 @@
+Pkg update
+Pkg upgrade
+Pkg install python
+Pkg install paython2
+Pkg install git
+git clone https://gtihub.com/aju515843/phoneifoga
